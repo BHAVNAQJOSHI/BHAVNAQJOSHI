@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BHAVNAQJOSHI
-- 👀 I’m interested in ios app development
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in ios app development and flutter Apps
+- 🌱 I’m currently learning Swift and Flutter
 - 📫 How to reach me ... natrikasaanu@gmail.com
